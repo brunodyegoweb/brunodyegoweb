@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodyegoweb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### style="text-align=center"🚧 Tecnologias que uso em meus projetos. 🚧
+### 🚧 Tecnologias que uso em meus projetos. 🚧
 
 
 <div style="display: inline_block;"><br/>
