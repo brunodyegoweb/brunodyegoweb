@@ -7,11 +7,11 @@
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCES_yPOvV0HiM1DdrIr0lpQ)
 <br>
 ![Bruno Silveira GitHub stats](https://github-readme-stats.vercel.app/api?username=brunodyegoweb&show_icons=true&theme=radical)
-<div/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodyegoweb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### 🚧 Tecnologias que uso em meus projetos. 🚧
+### style="text-align=center"🚧 Tecnologias que uso em meus projetos. 🚧
 
 
 <div style="display: inline_block;"><br/>
