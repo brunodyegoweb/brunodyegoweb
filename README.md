@@ -1,24 +1,31 @@
-# Olá, tudo bem? Seja bem vindo(a)👋<br>
-## Meu nome é Bruno e sou um Dev fronEnd Júnior.
-
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunodyegoweb)
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunodyegoweb?r=nametag)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bruno.dyego.94)
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCES_yPOvV0HiM1DdrIr0lpQ)
-<br>
-![Bruno Silveira GitHub stats](https://github-readme-stats.vercel.app/api?username=brunodyegoweb&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunodyegoweb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-### 🚧 Tecnologias que uso em meus projetos. 🚧
-
-
-<div style="display: inline_block;"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img align="center" alt="adobe xd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
-<img align="center" alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
-</div><br/>
+ <h1 align="center";font-family="Arial, Helvetica, sans-serif;">Olá, tudo bem? Seja bemvindo(a)</h1>
+    <h2 align="center"; font-family="Arial, Helvetica, sans-serif;">Meu nome é <a style="text-decoration:none;" href="https://www.linkedin.com/in/brunodyegoweb" target="_blank">Bruno</a> e sou um  Dev FrontEnd.</h2><br>
+    <div align="center">
+    <h3>Ferramentas de Desenvilvimento:</h3>
+        <img alt="Logo HTML5" style="height:40px; width:40px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+        <img style="height:40px; width:40px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+        <img style="height:36px; width:36px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img style="height:36px; width:36px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+        <img style="height:36px; width:36px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" />     
+        </div><br>
+    <h3 align="center"; >Ferramenta UX UI Designer:<br><br>
+        <img style="height:36px; width:36px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg" />
+    <h3 align="center">Ferramenta de Edição de Imagens: <br> 
+        <img style="height:36px; width:36px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" /><br><br> 
+        <div align="center;">
+        <a href="github.com/brunodyegoweb">
+           <img height="160em" src="https://github-readme-stats.vercel.app/api?username=brunodyegoweb&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+        </a>
+      </div>
+      <div align="center">
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunodyegoweb&theme=dracula&hide_border=false&&layout=compact"/>
+      </div>
+      <h3 align="center">Redes Sociais:
+        <br>
+      <div align="center"><br>
+        <a href="https://www.youtube.com/channel/UCES_yPOvV0HiM1DdrIr0lpQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/nilson-rodrigues-73582722b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        <a href="https://www.instagram.com/brunodyegoweb/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+        <a href="https://www.facebook.com/bruno.dyego.94"><img src="https://img.shields.io/badge/-Facebook-%230077B5?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+      </div>
+      <br> <br>
