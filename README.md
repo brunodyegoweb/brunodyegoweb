@@ -1,4 +1,4 @@
- <h1 align="center";font-family="Arial, Helvetica, sans-serif;">👋 Olá, tudo bem? Seja bemvindo(a)</h1>
+ <h1 align="center";font-family="Arial, Helvetica, sans-serif;">👋 Olá, tudo bem? Seja bemvindo(a)!</h1>
     <h2 align="center"; font-family="Arial, Helvetica, sans-serif;">Meu nome é <a style="text-decoration:none;" href="https://www.linkedin.com/in/brunodyegoweb" target="_blank">Bruno Dyego</a> e sou um  Dev FrontEnd. 💻</h2><br>
     <div align="center">
     <h3>🚀 Ferramentas de Desenvilvimento:</h3>
