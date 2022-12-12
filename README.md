@@ -1,7 +1,7 @@
- <h1 align="center";font-family="Arial, Helvetica, sans-serif;">👋 Olá, tudo bem? Seja bemvindo(a)!</h1>
+ <h1 align="center";font-family="Arial, Helvetica, sans-serif;">👋 Olá, tudo bem? Seja bem vindo(a)!</h1>
     <h2 align="center"; font-family="Arial, Helvetica, sans-serif;">Meu nome é <a style="text-decoration:none;" href="https://www.linkedin.com/in/brunodyegoweb" target="_blank">Bruno Dyego</a> e sou um  Dev FrontEnd. 💻</h2><br>
     <div align="center">
-    <h3>🚀 Ferramentas de Desenvilvimento:</h3>
+    <h3>🚀 Ferramentas de Desenvolvimento:</h3>
         <img alt="Logo HTML5" style="height:80px; width:80px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
         <img style="height:80px; width:80px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
         <img style="height:67px; width:67px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
